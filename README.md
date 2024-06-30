@@ -19,18 +19,10 @@ The Car Rental System is a Java-based console application designed to facilitate
   -Dynamic pricing based on rental duration and car type.
   -Generate detailed billing statements.
 
-## Project Structure
-  com/carrental/
-│
-├── Car.java          # Car class with attributes and methods related to car operations.
-├── Customer.java     # Customer class to manage customer information.
-├── Rental.java       # Rental class to manage rental transactions.
-├── CarRentalSystem.java # Main system class to manage the operations and user interface.
-└── Main.java         # Entry point of the application.
 
 ## How to Run
 1)Clone the Repository:
-  git clone https://github.com/yourusername/car-rental-system.git
+  git clone https://github.com/pranavnikam3110/car-rental-system.git
 cd car-rental-system
 
 2)Compile the Source Code:
