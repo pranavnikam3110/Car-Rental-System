@@ -1,2 +1,3 @@
 # Car-Rental-System
-The Car Rental System project, developed in Java, leverages Object-Oriented Programming (OOP) principles such as inheritance, encapsulation, polymorphism, and abstraction. This system features a console-based user interface for efficient car rental operations, including real-time inventory management, rental transactions, and customer interactions.
+Project Overview
+The Car Rental System is a Java-based console application designed to facilitate car rental operations. It leverages core Object-Oriented Programming (OOP) principles to create a modular, scalable, and maintainable system. This application manages car inventory, customer interactions, and rental transactions, with features for real-time availability checking and dynamic pricing.
